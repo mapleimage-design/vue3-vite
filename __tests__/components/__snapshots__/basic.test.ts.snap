@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`import vue components > mounted component 1`] = `
+"<h1 data-v-469af010=\\"\\">123</h1>
+<h1 data-v-469af010=\\"\\">0</h1>
+<button data-v-469af010=\\"\\">click</button>"
+`;
