@@ -19,3 +19,13 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 * [ibrary mode](https://vitejs.dev/guide/build.html#library-mode)
 * [test example](https://github.com/vitest-dev/vitest/tree/main/examples/vue/test)
+
+## TODOs
+
+* [ ] example
+* [ ] tests
+* [ ] typed file
+* [ ] storybook
+  + [ ] 组件渲染效果
+  + [ ] 使用源码
+* [ ] codesandbox
